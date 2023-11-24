@@ -1,0 +1,7 @@
+.user-card{
+    margin: 40px;
+    width: 300px;
+    padding:30px 20px;
+    background:linear-gradient(135deg, #F5515F 0%,#A1051D 100%);
+    color: white;
+}

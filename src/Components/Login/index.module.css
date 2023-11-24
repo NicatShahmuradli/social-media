@@ -1,0 +1,8 @@
+.login-form{
+    margin: 40px auto;
+    width: 500px;
+    padding:30px 20px;
+    border: 4px solid rgb(88, 182, 249);
+    border-radius: 20px;
+}
+
